@@ -6,8 +6,8 @@ I’m interested in:
 - 👀 People :)
 
 I’m currently learning: 
-- 🌱 Kotlin/Android
-- 🌱 Swift/IOS
+- 🌱 Dart/Flutter
+- 🌱 Web Dev
 - 🌱 Chinese HSK 4 (HSK 3 Qualified)
 
 
